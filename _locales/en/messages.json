@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "once",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "only visit urls a single time",
+    "description": "The description of the application"
+  }
+}
